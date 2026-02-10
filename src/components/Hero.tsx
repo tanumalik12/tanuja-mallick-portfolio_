@@ -92,7 +92,7 @@ const Hero = () => {
               Contact Me
             </a>
             <a
-              href="/resume.pdf"
+              href="/Tanuja_Mallick_Resume.pdf"
               download
               className="px-8 py-4 border border-border text-muted-foreground rounded-lg font-semibold hover:bg-primary/10 hover:text-primary hover:border-primary/50 transition-all duration-300 hover:-translate-y-0.5 inline-flex items-center gap-2"
             >
